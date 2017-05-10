@@ -32,6 +32,7 @@ public class TesteDaClasseArrays {
             }
 
         }
+        /*
         objetoDaClasseArrays.insereDadosNoVetor(0, 1);
         objetoDaClasseArrays.insereDadosNoVetor(1, 1);
         objetoDaClasseArrays.insereDadosNoVetor(2, 1);
@@ -43,7 +44,7 @@ public class TesteDaClasseArrays {
         objetoDaClasseArrays.insereDadosNoVetor(8, 1);
         objetoDaClasseArrays.insereDadosNoVetor(9, 1);
         objetoDaClasseArrays.insereDadosNoVetor(10, 1);
-        
+        */
         int resultadoDaSoma;
         
         resultadoDaSoma = objetoDaClasseArrays.soma();
