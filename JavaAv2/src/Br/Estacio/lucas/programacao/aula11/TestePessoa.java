@@ -11,7 +11,7 @@ package Br.Estacio.lucas.programacao.aula11;
  */
 public class TestePessoa {
     public static void main(String[] args[]){
-        pessoa pessoa= new Pessoa();
+        Pessoa pessoa= new Pessoa();
         pessoa.dataNascimento="2017-01-01";
         pessoa.nome="João";
         pessoa.endereco="Rua da Saudade, nº328";
